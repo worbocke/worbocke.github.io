@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://worbocke.github.io/sitemap
+Sitemap: https://worbocke.github.io/app/sitemap
+Sitemap: https://worbocke.github.io/assets/sitemap
+Sitemap: https://worbocke.github.io/css/sitemap
+Sitemap: https://worbocke.github.io/includes/sitemap
+Sitemap: https://worbocke.github.io/item/sitemap
+Sitemap: https://worbocke.github.io/src/sitemap
